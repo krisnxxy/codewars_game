@@ -1,0 +1,1 @@
+Helo, everyone. i made this repo to save 'Kata' that i have solved from Codewars. so i hope this repo will help you guys when you need some hint to solve 'Kata'.
